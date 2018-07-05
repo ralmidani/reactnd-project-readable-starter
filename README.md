@@ -10,7 +10,7 @@ This repository includes the code for the server-side API under `/api-server`, a
     - `cd api-server`
     - `npm install`
     - `node server`
-* In another terminal window, run the following to get the client-side application running
+* In another terminal window, run the following to get the client-side application going
     - `cd frontend`
     - `npm install`
     - `npm start`
