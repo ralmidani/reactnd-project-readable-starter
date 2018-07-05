@@ -6,11 +6,11 @@ This repository includes the code for the server-side API under `/api-server`, a
 
 ## Running the project
 
-* Install and start the API server
+* Install and start the API server:
     - `cd api-server`
     - `npm install`
     - `node server`
-* In another terminal window, run the following to get the client-side application going
+* In another terminal window, start the client-side application:
     - `cd client`
     - `npm install`
     - `npm start`
